@@ -12,8 +12,8 @@ Commercial use is allowed, provided that:
 
 ## Directory Layout
 
-All build artifacts are placed under `build<version>/`:
+ - All build artifacts are placed under `build<version>/`:
 
-build<version>/asm/: Assembly source code and compiled output
-build<version>/dsk/: Virtual hard disk images (bootable in VMs)
-build<version>/bin/: Flat binary outputs for each assembly files
+ - build<version>/asm/: Assembly source code and compiled output
+ - build<version>/dsk/: Virtual hard disk images (bootable in VMs)
+ - build<version>/bin/: Flat binary outputs for each assembly files
