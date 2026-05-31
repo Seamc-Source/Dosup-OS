@@ -1,1 +1,5 @@
+This OS is licensed under the GNU General Public License v3.
+Any derivativee works, including kernel module and system librarys,
+must also be released under the GPLv3.
 
+See the file LICENSE for detials.
